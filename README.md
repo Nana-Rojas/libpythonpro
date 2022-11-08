@@ -34,3 +34,4 @@ Tópicos a serem abordados:
  5. Pipenv
 
 oi
+tudo bem ?
